@@ -8,7 +8,7 @@ My name is Fumian Chen.
 - 👯 My research interest is about Fairness in IR.
 - 🤔 I’m working for social good problems @ Tech Impact.
 - 📫 How to reach me: fmchen@udel.edu
-- ⚡ Fun fact: Ski, Kayak, Road Trip.
+- ⚡ Fun: Ski, Kayak, Road Trip.
 - 💬
 
 <p align="center">
