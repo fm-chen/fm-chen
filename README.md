@@ -3,7 +3,7 @@
 
 My name is Fumian Chen.
 
-- 🔭 I’m a Ph.D. candidate in the Financial Services Analytics program @ Udel
+- 🔭 I’m a Ph.D. candidate in Financial Services Analytics ([FSAN](https://lerner.udel.edu/programs/phd-programs/financial-services-analytics-phd/)) @ Udel
 - 🌱 I love everything about ML, NLP, Information Retrieval (IR), and RAG.
 - 👯 My research interest is about Fairness in IR.
 - 🤔 I’m working for social good problems.
