@@ -17,5 +17,4 @@ My name is Fumian Chen.
   <img src="https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" />
 </p>
