@@ -9,7 +9,7 @@ My name is Fumian Chen.
 - 🤔 I’m working for social good problems @ Tech Impact.
 - 📫 How to reach me: fmchen@udel.edu
 - ⚡ Fun: Ski, Kayak, Road Trip.
-- 💬
+- 💬 Check out more about me and my projects: https://fm-chen.github.io
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
